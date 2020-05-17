@@ -7,13 +7,13 @@ import Sorteio from './components/Sorteio';
 import Intervalo from './components/Intervalo';
 
 function App() {
+
   return (
     <div className="App">
       <h1>Exercicio React Redux</h1>
       
       <div className="linha">
-        <Intervalo>
-        </Intervalo>
+        <Intervalo></Intervalo>
       </div>
       <div className="linha">
         <Media></Media>
