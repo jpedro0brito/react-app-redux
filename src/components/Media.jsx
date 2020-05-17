@@ -11,7 +11,7 @@ import Card from './Card';
             <div>
                 <span>
                     <span>Resultado:</span>
-                    <strong>{(max+min)/2}</strong>
+                    <strong>{(min+max)/2}</strong>
                 </span>
             </div>
         </Card>

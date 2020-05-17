@@ -11,7 +11,7 @@ const Soma =  props => {
             <div>
                 <span>
                     <span>Resultado:</span>
-                    <strong>{max+min}</strong>
+                    <strong>{min+max}</strong>
                 </span>
             </div>
         </Card>
